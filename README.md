@@ -1,3 +1,3 @@
 # The Odin Project
 
-###Project: Landing Page
+### Project: Landing Page
